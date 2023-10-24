@@ -1,11 +1,11 @@
 import { useState } from "react";
 import Categoria from "../components/Categoria";
 import Header from "../components/Header/Header";
-import Item from "../components/Item";
-import Menu from "../components/Menu/Menu";
+// import Item from "../components/Item";
+// import Menu from "../components/Menu/Menu";
 import ProductModal from "../components/ProductModal";
 import TopImage from "../components/TopImage/TopImage";
-import ItemGrid from "./../components/ItemGrid/ItemGrid";
+// import ItemGrid from "./../components/ItemGrid/ItemGrid";
 
 
 export default function Home() {
